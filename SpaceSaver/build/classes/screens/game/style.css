@@ -1,0 +1,33 @@
+#pane{
+    -fx-background-image: url("../../images/fundoJogo.jpg");
+}
+
+#pausePane{
+    -fx-background-color: #fff;
+}
+
+#btnFechar{
+    -fx-background-color: #fff;
+    -fx-font-weight: bold;
+    -fx-font-size: 20px;
+    -fx-text-fill: #672483;
+}
+
+.primaryText{
+    -fx-text-fill: #672483;
+    -fx-font-size: 35px;
+    -fx-font-weight: bold;
+}
+
+#btnJogar{
+    -fx-background-color: #672483;
+    -fx-font-size: 25px;
+    -fx-text-fill: #fff;
+    -fx-font-weight: bold;
+}
+
+#btnLink{
+    -fx-background-color: #fff;
+    -fx-text-fill: #672483;
+    -fx-font-weight: bold;
+}

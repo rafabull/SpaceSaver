@@ -1,0 +1,16 @@
+#Pane{
+    -fx-background-image: url("../../images/fundo.jpg");
+}
+
+#btnJogar{
+    -fx-background-color: #672483;
+    -fx-font-size: 25px;
+    -fx-text-fill: #fff;
+    -fx-font-weight: bold;
+}
+
+#btnManual{
+    -fx-background-color: #fff;
+    -fx-text-fill: #672483;
+    -fx-font-weight: bold;
+}
